@@ -1,0 +1,129 @@
+#myslidemenu {
+  margin: 0 auto;
+  width:960px;
+  background:url(../images/bg-menu.gif) repeat-x;
+  height:43px;
+}
+.jqueryslidemenu{
+}
+
+.jqueryslidemenu ul{
+  margin: 0 ;
+  padding: 0;
+  list-style-type: none;
+}
+
+/*Top level list items*/
+.jqueryslidemenu ul li{
+  position: relative;
+  display: inline;
+  float: left;
+  margin-top:12px;
+}
+.jqueryslidemenu ul li:first-child {
+	margin-top:0;
+}
+.jqueryslidemenu ul li a.homeicon {
+  margin-left: 0;
+  background:none;
+  display:block;
+  text-indent:-9999px; 
+  width:22px;
+  background:url(../images/icon-home.png) 12px 12px no-repeat;
+}
+/*Top level menu link items style*/
+.jqueryslidemenu ul li a{
+  font-size: 15px;
+  color: #ffffff;
+  padding: 12px 11px;
+  background:url(../images/verticle-line-menu.gif) no-repeat;
+}
+
+* html .jqueryslidemenu ul li a{ /*IE6 hack to get sub menu links to behave correctly*/
+display: inline-block;
+}
+
+.jqueryslidemenu ul li a:link, .jqueryslidemenu ul li a:visited{
+color: #ffffff;
+}
+.jqueryslidemenu ul li.current_page_item a, .jqueryslidemenu ul li.current_page_parent a,.jqueryslidemenu ul li.current-page-ancestor a {
+  color: #333366;
+}
+.jqueryslidemenu ul li a:hover{
+color: #333366;
+}
+	
+/*1st sub level menu*/
+.jqueryslidemenu ul li ul{
+  position: absolute;
+  left: 0;
+  display: block;
+  visibility: hidden;
+  padding-top: 16px;
+  z-index: 102;
+  background: url(../images/topmenu.png) top center no-repeat;
+ }
+
+/*Sub level menu list items (undo style from Top level List Items)*/
+.jqueryslidemenu ul li ul li{
+  margin: 0;
+  padding: 0;
+  border: none;
+  z-index: 102;
+  background-color: #383759;
+}
+
+/*.jqueryslidemenu ul li ul li:last-child{
+	border-bottom:none;
+	-moz-border-bottom-left-radius: 6px;
+    -webkit-border-bottom-left-radius: 6px;
+   	border-bottom-left-radius: 6px;
+	-moz-border-bottom-right-radius: 6px;
+    -webkit-border-bottom-right-radius: 6px;
+   	border-bottom-right-radius: 6px;
+}*/
+
+/*All subsequent sub menu levels vertical offset after 1st level sub menu */
+.jqueryslidemenu ul li ul li ul{
+top: 0;
+z-index: 999999;
+padding-top: 0;
+}
+
+/* Sub level menu links style */
+.jqueryslidemenu ul li ul li a,
+.jqueryslidemenu ul li ul li a:link, 
+.jqueryslidemenu ul li ul li a:visited{
+  width: 150px; /*width of sub menus*/
+  margin: 0px;
+  padding:7px 10px;
+  border-bottom: 1px solid #5e5c96;
+  display: block;
+  z-index: 9999999;
+  font-size: 11px;
+  color: #EAEAEA;
+  height: 100%;
+  line-height: 16px;
+  background:none;
+}
+
+.jqueryslidemenu ul li ul li a:hover{ /*sub menus hover style*/
+  color: #ff6600;
+  background:#1e1d4a;
+}
+
+/* ######### CSS classes applied to down and right arrow images  ######### */
+
+.downarrowclass{
+position: absolute;
+top: 12px;
+right: 7px;
+display: none;
+}
+
+.rightarrowclass{
+position: absolute;
+top: 6px;
+right: 5px;
+display: none;
+}

@@ -1,0 +1,832 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Uexpress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-03-12 22:54+0700\n"
+"PO-Revision-Date: 2012-09-04 09:23+0700\n"
+"Last-Translator: \n"
+"Language-Team: nova <info@novacambodia.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Country: CAMBODIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:13
+msgid "404 Page"
+msgstr "404 page"
+
+#: ../404.php:30
+msgid "Apologies, but the page you requested could not be found"
+msgstr "សូមអភ័យទោ សទំព័រដែលអ្នកសុំណូមពរគឺពុំត្រូវបានរកឃើញ"
+
+#: ../404.php:33
+msgid "Try different search?"
+msgstr "សូមព្យាយាមស្វែងរកនូវពត៏មានផ្សេងទៀត?"
+
+#: ../archive.php:24
+#: ../archive.php:26
+msgid "Archive for "
+msgstr "កន្លែងទុកឯកសារ សំរាប់"
+
+#: ../archive.php:28
+msgid "Archive for"
+msgstr "កន្លែងទុកឯកសារសំរាប់"
+
+#: ../archive.php:30
+msgid "Author Archive"
+msgstr "ឯកសារអ្នកនិពន្ធ"
+
+#: ../archive.php:32
+msgid "Archives"
+msgstr "កន្លែងទុកឯកសារផ្សែងៗ"
+
+#: ../archive.php:89
+#: ../blog-template.php:73
+msgid "Posted at "
+msgstr "ផ្ញើរ រឺ បញ្ជូន ឯកសារនូវ"
+
+#: ../archive.php:90
+#: ../blog-template.php:74
+msgid "By "
+msgstr "ដោយ"
+
+#: ../archive.php:91
+#: ../blog-template.php:75
+msgid "Categories "
+msgstr "ប្រភេទ"
+
+#: ../archive.php:92
+#: ../blog-template.php:76
+msgid "0 Comment"
+msgstr "ពុំមានមតិយោបល់"
+
+#: ../archive.php:92
+#: ../blog-template.php:76
+msgid "1 Comment"
+msgstr "មានមតិយោបល់ ចំនួនមួយ"
+
+#: ../archive.php:92
+#: ../blog-template.php:76
+msgid "% Comments"
+msgstr "ភាគរយនៃមតិយោបល់"
+
+#: ../category-team.php:46
+msgid "VIEW MORE DETAIL "
+msgstr "ទស្សនាអោយកាន់តែលំអិត"
+
+#: ../category-testimonial.php:29
+msgid "What Our Client Says"
+msgstr "អ្វីដែលអតិថិជនបាននិយាយ"
+
+#: ../comments.php:6
+msgid "Please do not load this page directly. Thanks!"
+msgstr "សូមកុំបើករឺផ្ទុកទំព័រនេះដោយផ្ទាល់ !  សូមអរគុណ!"
+
+#: ../comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "សូមបញ្ជូលពាក្យសំងាត់ ដើម្បីទស្សនាមតិយោបល់"
+
+#: ../comments.php:21
+msgid "Comment"
+msgstr "មតិយោបល់"
+
+#: ../comments.php:30
+msgid "Trackbacks for this post"
+msgstr "រក្សាតំរុយ សំរាប់ការផ្សាយនេះ"
+
+#: ../comments.php:43
+msgid "Comments are now closed for this article."
+msgstr "ឥទ្បូវនេះ មតិយោបល់ត្រូវបានបិទ សំរាប់អត្ថបទនេះ   "
+
+#: ../comments.php:53
+msgid "Comments are closed."
+msgstr "មតិយោបល់ត្រូវបានបិទ៕"
+
+#: ../comments.php:64
+msgid "Leave a Comment"
+msgstr "ចាកចេញពីមតិយោបល់"
+
+#: ../comments.php:70
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a comment."
+msgstr "អ្នកត្រូវព្យាយាម %1$ នៅក្នុង %2$s ដើម្បីផ្សាយមតិយោបល់"
+
+#: ../comments.php:77
+#, php-format
+msgid "Logged in as %1$s. %2$sLog out &raquo;%3$s"
+msgstr "Logged in as %1$s. %2$sLog out &raquo;%3$s"
+
+#: ../comments.php:77
+msgid "Log out of this account"
+msgstr "ចាចេញពី account នេះ"
+
+#: ../comments.php:82
+msgid "Name"
+msgstr " ឈ្មោះ"
+
+#: ../comments.php:82
+#: ../comments.php:84
+msgid "(required)"
+msgstr "(តំរូវអោយមាន)"
+
+#: ../comments.php:84
+msgid "Mail (will not be published)"
+msgstr "សារ(និងមិនត្រូវបានគេផ្សាយ)"
+
+#: ../comments.php:86
+#: ../contact-form.php:110
+msgid "Website"
+msgstr "គេហទំព័រ"
+
+#: ../comments.php:92
+msgid "Message"
+msgstr "សារ ឬ ដំណឹង"
+
+#: ../contact-form.php:68
+msgid "Your message has been sent successfully. Thank you!"
+msgstr "សាររបស់លោកអ្នកត្រូវបានផ្ងើរជោគជ័យ៕  សូមអរគុណ!"
+
+#: ../contact-form.php:73
+msgid "Name "
+msgstr "ឈ្មោះ"
+
+#: ../contact-form.php:75
+msgid "Subject "
+msgstr "ប្រធានបទ"
+
+#: ../contact-form.php:77
+msgid "E-mail "
+msgstr "សារអេឡិចត្រនិច ឬ អីម៉េល"
+
+#: ../contact-form.php:79
+msgid "Message "
+msgstr "សារ ឬ ដំណឹង   "
+
+#: ../contact-form.php:84
+msgid "SEND"
+msgstr "បញ្ជូន"
+
+#: ../contact-form.php:85
+msgid "Please wait.."
+msgstr "សូមរងចាំ .."
+
+#: ../contact-form.php:105
+msgid "Phone"
+msgstr "ទូរសព្ទ័ដៃ"
+
+#: ../contact-form.php:107
+msgid "Fax"
+msgstr "បញ្ជូនតាមហ្វាក់"
+
+#: ../contact-form.php:109
+msgid "Email"
+msgstr "សារអេឡិចត្រនិច ឬ អីម៉េល    "
+
+#: ../default-widget.php:5
+msgid "Latest News"
+msgstr "ដំណឹងថ្មីបំផុត"
+
+#: ../footer-2col.php:4
+#: ../footer-3col.php:4
+#: ../footer-4col.php:4
+msgid "Categories"
+msgstr "ប្រភេទ"
+
+#: ../footer-3col.php:14
+#: ../footer-4col.php:24
+msgid "Our Address"
+msgstr "អាសយដា្ឋនរបស់យើង"
+
+#: ../footer-3col.php:29
+#: ../footer-4col.php:39
+msgid "Phone "
+msgstr "ទូរសព្ទ័ដៃ    "
+
+#: ../footer-3col.php:31
+#: ../footer-4col.php:41
+msgid "FAX "
+msgstr "បញ្ជូនតាមហ្វាក់"
+
+#: ../footer-3col.php:33
+#: ../footer-4col.php:43
+msgid "Email "
+msgstr "សារអេឡិចត្រនិច ឬ អីម៉េល    "
+
+#: ../footer-3col.php:34
+#: ../footer-4col.php:44
+msgid "Website "
+msgstr "គេហទំព័រ"
+
+#: ../footer-4col.php:14
+msgid "Links"
+msgstr "ភ្ជាប់ទំនាក់ទំនង"
+
+#: ../portfolio-1col.php:70
+#: ../portfolio-2cols.php:65
+#: ../portfolio-3cols.php:65
+#: ../portfolio-4cols.php:67
+#: ../portfolio-catfilter.php:85
+#: ../portfolio-jqueryfilter.php:85
+msgid "VIEW DETAIL "
+msgstr "ទស្សនាលំអិត"
+
+#: ../portfolio-1col.php:71
+msgid "VISIT SITE "
+msgstr "ចូលទស្សនា  Website"
+
+#: ../portfolio-catfilter.php:45
+#: ../portfolio-jqueryfilter.php:40
+msgid "All"
+msgstr "ទាំងអស់"
+
+#: ../search.php:14
+msgid "Search"
+msgstr "ស្រាវជ្រាវ"
+
+#: ../search.php:30
+msgid "Search Results for "
+msgstr "ស្វែងរកលទ្ធផលសំរាប់"
+
+#: ../searchbox.php:6
+msgid "Search..."
+msgstr "ស្រាវជ្រាវ ..    "
+
+#: ../single.php:55
+msgid "&larr;"
+msgstr "&larr;"
+
+#: ../single.php:56
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: ../single.php:71
+msgid "About "
+msgstr "អំពី"
+
+#: ../admin/admin-functions.php:83
+msgid "Columns"
+msgstr "សសរ"
+
+#: ../admin/admin-functions.php:84
+msgid "Inner Columns"
+msgstr "សសរខាងក្នុង"
+
+#: ../admin/admin-functions.php:85
+msgid "Elements"
+msgstr "ធាតុផ្សែងៗ"
+
+#: ../admin/admin-functions.php:86
+msgid "List Style"
+msgstr "បញ្ជីរចនាបថ"
+
+#: ../admin/admin-functions.php:87
+#: ../admin/admin-functions.php:97
+msgid "One Fourth"
+msgstr "មួយ ចែកនិង បួន"
+
+#: ../admin/admin-functions.php:88
+#: ../admin/admin-functions.php:98
+msgid "One Fourth Last"
+msgstr "មូយ ចែកនិង បួនចុងក្រោយ"
+
+#: ../admin/admin-functions.php:89
+msgid "One Third"
+msgstr "មួយ ចែកនិង បី"
+
+#: ../admin/admin-functions.php:90
+msgid "One Third Last"
+msgstr "មួយ ចែកនិង បីចុងក្រោយ"
+
+#: ../admin/admin-functions.php:91
+msgid "One Half"
+msgstr "មួយកន្លះ"
+
+#: ../admin/admin-functions.php:92
+msgid "One Half Last"
+msgstr "មួយកន្លះចុងក្រោយ"
+
+#: ../admin/admin-functions.php:93
+msgid "Two Third"
+msgstr "ពីរ ចែកនិង បី"
+
+#: ../admin/admin-functions.php:94
+msgid "Three Fourth"
+msgstr "បី ចែកនិង បួន"
+
+#: ../admin/admin-functions.php:95
+msgid "One Fifth"
+msgstr "មួយ ចែកនិង ប្រាំ"
+
+#: ../admin/admin-functions.php:96
+msgid "One Fifth Last"
+msgstr "មួយ ចែកនិង ប្រាំចុងក្រោយ"
+
+#: ../admin/admin-functions.php:99
+msgid "One Third Inner"
+msgstr "នៅក្នុងមួយ ចែកនិងបី"
+
+#: ../admin/admin-functions.php:100
+msgid "One Third Inner Last"
+msgstr "នៅក្នុងមួយ ចែកនិងបីចុងក្រោយ"
+
+#: ../admin/admin-functions.php:101
+msgid "One Half  Inner"
+msgstr "នៅក្នុងមួយកន្លះ"
+
+#: ../admin/admin-functions.php:102
+msgid "One Half Inner Last"
+msgstr "នៅក្នុងមួយកន្លះចុងក្រោយ"
+
+#: ../admin/admin-functions.php:103
+msgid "Two Third Inner "
+msgstr "នៅក្នុងពីរ ចែកនិង បី"
+
+#: ../admin/admin-functions.php:104
+msgid "Three Fourth Inner "
+msgstr "នៅក្នុងបី ចែកនិង បួន"
+
+#: ../admin/admin-functions.php:105
+msgid "Dropcap"
+msgstr "អក្សរធ្លាក់"
+
+#: ../admin/admin-functions.php:106
+msgid "Pullquote Left"
+msgstr "ពាក្យសំរង់នៅខាងឆ្វេង"
+
+#: ../admin/admin-functions.php:107
+msgid "Pullquote Right"
+msgstr "ពាក្យសំរង់នៅខាងស្តាំ"
+
+#: ../admin/admin-functions.php:108
+msgid "Divider"
+msgstr "ត្រីវិស័យ"
+
+#: ../admin/admin-functions.php:109
+msgid "Spacer"
+msgstr "អ្នកចែកគំលាត"
+
+#: ../admin/admin-functions.php:110
+msgid "Tabs"
+msgstr "ស្លាក់"
+
+#: ../admin/admin-functions.php:111
+msgid "Toggle"
+msgstr "រអិលរមៀល"
+
+#: ../admin/admin-functions.php:112
+msgid "Image"
+msgstr "រូបភាព"
+
+#: ../admin/admin-functions.php:113
+msgid "Testimonial Block"
+msgstr "កញ្ចប់នៃការអំណរគុណ"
+
+#: ../admin/admin-functions.php:114
+msgid "Google Map"
+msgstr "ផែនទី google "
+
+#: ../admin/admin-functions.php:115
+msgid "Youtube"
+msgstr "Youtube"
+
+#: ../admin/admin-functions.php:116
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: ../admin/admin-functions.php:117
+msgid "Buttons"
+msgstr "បូ៍តុង"
+
+#: ../admin/admin-functions.php:118
+msgid "Big Buttons"
+msgstr "បូ៍តុងធំ"
+
+#: ../admin/admin-functions.php:119
+msgid "Bullet List"
+msgstr "បញ្ជីគ្រាប់មូលៗ"
+
+#: ../admin/admin-functions.php:120
+msgid "Star List"
+msgstr "បញ្ជីផ្កាយ"
+
+#: ../admin/admin-functions.php:121
+msgid "Arrow List"
+msgstr "បញ្ជីព្រួញ"
+
+#: ../admin/admin-functions.php:122
+msgid "Item List"
+msgstr "បញ្ជីរាយមុខមួយៗ"
+
+#: ../admin/admin-functions.php:123
+msgid "Check List"
+msgstr "បញ្ជីត្រួតពិនិ"
+
+#: ../admin/admin-functions.php:124
+msgid "Info Box"
+msgstr "ប្រអប់ព៏តមាន"
+
+#: ../admin/admin-functions.php:125
+msgid "Success Box"
+msgstr "ប្រអប់ជោគជ័យ"
+
+#: ../admin/admin-functions.php:126
+msgid "Warning Box"
+msgstr "ប្រអប់ប្រមាន"
+
+#: ../admin/admin-functions.php:127
+msgid "Error Box"
+msgstr "ប្រអប់កំហុស"
+
+#: ../functions/breadcrumbs-plus.php:49
+msgid "You are here: "
+msgstr "អ្នកស្ថិតនៅទីនេះ:"
+
+#: ../functions/breadcrumbs-plus.php:50
+msgid "Home"
+msgstr "ផ្ទះ"
+
+#: ../functions/breadcrumbs-plus.php:177
+#: ../functions/breadcrumbs-plus.php:180
+#: ../functions/breadcrumbs-plus.php:183
+msgid "Archives for "
+msgstr "កន្លែងទុកឯកសារសំរាប់"
+
+#: ../functions/breadcrumbs-plus.php:187
+msgid "Archives by: "
+msgstr "កន្លែងទុកឯកសារដោយ :"
+
+#: ../functions/breadcrumbs-plus.php:192
+msgid "Search results for \""
+msgstr "ស្រាវជ្រាវលទ្ធផល\”"
+
+#: ../functions/breadcrumbs-plus.php:196
+msgid "Page Not Found"
+msgstr "ទំព័រនេះរកពុំឃើញ"
+
+#: ../functions/breadcrumbs-plus.php:239
+msgid "Split"
+msgstr "បំបែក"
+
+#: ../functions/breadcrumbs-plus.php:242
+msgid "Merge"
+msgstr "បញ្ចូលគ្នា"
+
+#: ../functions/breadcrumbs-plus.php:245
+#: ../functions/breadcrumbs-plus.php:259
+#: ../functions/breadcrumbs-plus.php:279
+msgid "Edit"
+msgstr "កែប្រែ"
+
+#: ../functions/metabox.php:8
+msgid "Preview link"
+msgstr "បញ្ហានូវការភ្ជាប់ទំនាក់ទំនងជាមុន"
+
+#: ../functions/metabox.php:21
+msgid "Custom URL"
+msgstr "រៀបចំ ឬ កែប្រែURL"
+
+#: ../functions/metabox.php:27
+msgid "Portfolio Type"
+msgstr "ប្រភេទនៃសំនុំឯកសារ"
+
+#: ../functions/metabox.php:34
+msgid "Portfolio Images "
+msgstr "រូបភាពនៃសំនុំឯកសារ"
+
+#: ../functions/metabox.php:48
+msgid "Custom Slideshow URL"
+msgstr "រៀបចំឬ កែប្រែ slideshow URL"
+
+#: ../functions/metabox.php:49
+msgid "Custom URL for slideshow items."
+msgstr "រៀបចំឬ កែប្រែ URL សំរាប់រាយមុខ slideshow នីមួយៗ"
+
+#: ../functions/metabox.php:63
+msgid "Product Price"
+msgstr "តំលៃផលិតផល"
+
+#: ../functions/metabox.php:64
+msgid "Add price for your product"
+msgstr "បន្ថែមតំលៃលើមុខទំនិញរបស់អ្នក"
+
+#: ../functions/metabox.php:69
+msgid "Product Features"
+msgstr "លក្ខណះពិសេសរបស់ផលិតផល"
+
+#: ../functions/metabox.php:70
+msgid "Please enter your product features in comma-separated, eg. feature 1, feature 2"
+msgstr "សូមបញ្ចូលលក្ខណះពិសេសៗផលតិផលជាការ សញ្ញាក្បៀស ឧទាហរណ៍៖ លក្ខណះពិសេសទី១, លក្ខណះពិសេសទី២"
+
+#: ../functions/metabox.php:75
+msgid "Custom Product Url"
+msgstr "រៀបចំឬ កែប្រែ URLផលិតផល"
+
+#: ../functions/metabox.php:76
+msgid "Please enter your custom url for your product,if not setted then will be linked to actual product page"
+msgstr "សូមបញ្ចូលការកែប្រែ URL សំរាប់ផលិតផលរបស់អ្នក ប្រសិនបើមិនទាន់បានបង្កើត បន្ទាប់មកវានិងត្រូវបានភ្ជាប់ទៅកាន់ ទំព័រផលិតផលសជាក់ស្តែង"
+
+#: ../functions/metabox.php:89
+msgid "Page Heading Image"
+msgstr "ទំព័ររូបភាពចំណងជើង"
+
+#: ../functions/metabox.php:90
+msgid "Add your image URL that will be used as page heading image."
+msgstr "បន្ថែមURLភ្ជាប់ទំនាក់ទំនងរូបភាព ដែលនិងត្រូវបានគេប្រើជា ទំព័ររូបភាពចំណងជើង"
+
+#: ../functions/metabox.php:95
+msgid "Heading Text Position"
+msgstr "មុខងារអត្ថបទចំណងជើង"
+
+#: ../functions/metabox.php:96
+msgid "Select heading text position"
+msgstr "ជ្រើសរើសមុខងារអត្ថបទចំណងជើង"
+
+#: ../functions/metabox.php:102
+msgid "Short Description"
+msgstr "ការពិពណ៏នាខ្លីៗ"
+
+#: ../functions/metabox.php:103
+msgid "Add short description for your page."
+msgstr "បន្ថែមការពិពណ៏នាខ្លីៗសំរាប់ទំព័ររបស់អ្នក"
+
+#: ../functions/metabox.php:108
+msgid "Page slideshow type"
+msgstr "ទំព័រនៃប្រភេទslideshow"
+
+#: ../functions/metabox.php:109
+msgid "Select default slideshow for page"
+msgstr "ជ្រើសរើសslideshow គំរូដើមសំរាប់ទំព័រ"
+
+#: ../functions/metabox.php:116
+msgid "Page slideshow category"
+msgstr "ទំព័រប្រភេទslideshow"
+
+#: ../functions/metabox.php:117
+msgid "Select default slideshow category for page"
+msgstr "ជ្រើសរើសប្រភេទslideshowគំរូដើមសំរាប់ទំព័រ"
+
+#: ../functions/metabox.php:298
+msgid "Page options"
+msgstr "ជំរើសទំព័រ"
+
+#: ../functions/metabox.php:299
+msgid "Slideshow options"
+msgstr "ជំរើសslideshow"
+
+#: ../functions/metabox.php:300
+msgid "Portfolio options"
+msgstr "ជំរើសនៃសំណុំឯកសារ"
+
+#: ../functions/metabox.php:301
+msgid "Product options"
+msgstr "ជំរើសនៃផលិតផល"
+
+#: ../functions/post-types.php:6
+msgid "Portfolio"
+msgstr "សំណុំឯកសារ"
+
+#: ../functions/post-types.php:7
+msgid "portfolio"
+msgstr "សំណុំឯកសារ"
+
+#: ../functions/post-types.php:8
+#: ../functions/post-types.php:70
+#: ../functions/post-types.php:131
+msgid "Add New"
+msgstr "បន្ថែមថ្មី"
+
+#: ../functions/post-types.php:9
+msgid "Add New portfolio"
+msgstr "បន្ថែមសំណុំឯកសារថ្មី"
+
+#: ../functions/post-types.php:10
+msgid "Edit portfolio"
+msgstr "ការប្រែសំណុំឯកសារ"
+
+#: ../functions/post-types.php:11
+msgid "New portfolio"
+msgstr "សំណុំឯកសារ ថ្មី     "
+
+#: ../functions/post-types.php:12
+msgid "View portfolio"
+msgstr "ទស្សនាសំណុំឯកសារ "
+
+#: ../functions/post-types.php:13
+msgid "Search portfolio"
+msgstr "ស្រាវជ្រាវសំណុំឯកសារ  "
+
+#: ../functions/post-types.php:14
+msgid "No portfolio found"
+msgstr "សំណុំឯកសារ  ពុំត្រូវបានគេរកឃើញ"
+
+#: ../functions/post-types.php:15
+msgid "No portfolio found in Trash"
+msgstr "សំណុំឯកសារពុំត្រូវបានគេរកឃើញនៅក្នុងធុងសំរាម"
+
+#: ../functions/post-types.php:54
+#: ../functions/post-types.php:55
+msgid "Portfolio Categories"
+msgstr "ប្រភេទនៃសំណុំឯកសារ"
+
+#: ../functions/post-types.php:68
+msgid "Slideshow"
+msgstr "slideshow"
+
+#: ../functions/post-types.php:69
+msgid "slideshow"
+msgstr "slideshow"
+
+#: ../functions/post-types.php:71
+msgid "Add New slideshow"
+msgstr "បន្ថែម slideshow ថ្មី"
+
+#: ../functions/post-types.php:72
+msgid "Edit slideshow"
+msgstr "កែប្រែslideshow"
+
+#: ../functions/post-types.php:73
+msgid "New slideshow"
+msgstr "slideshow ថ្មី"
+
+#: ../functions/post-types.php:74
+msgid "View slideshow"
+msgstr "ទស្សនា slideshow"
+
+#: ../functions/post-types.php:75
+msgid "Search slideshow"
+msgstr "ស្រាវជ្រាវ slideshow"
+
+#: ../functions/post-types.php:76
+msgid "No slideshow found"
+msgstr "គ្មាន slideshow ពុំត្រូវបានគេរកឃើញ"
+
+#: ../functions/post-types.php:77
+msgid "No slideshow found in Trash"
+msgstr "គ្មាន slideshow ពុំត្រូវបានគេរកឃើញ ក្នុងធុងសំរាម"
+
+#: ../functions/post-types.php:114
+#: ../functions/post-types.php:115
+msgid "Slideshow Categories"
+msgstr "ប្រភេទនៃ slideshow"
+
+#: ../functions/post-types.php:129
+msgid "Product"
+msgstr "ផលិតផល"
+
+#: ../functions/post-types.php:130
+msgid "product"
+msgstr "ផលិតផល"
+
+#: ../functions/post-types.php:132
+msgid "Add New product"
+msgstr "បន្ថែមផលិតផលថ្មី"
+
+#: ../functions/post-types.php:133
+msgid "Edit product"
+msgstr "កែប្រែផលិតផល"
+
+#: ../functions/post-types.php:134
+msgid "New product"
+msgstr "ផលិតផលថ្មី"
+
+#: ../functions/post-types.php:135
+msgid "View product"
+msgstr "ទស្សនាផលិតផល"
+
+#: ../functions/post-types.php:136
+msgid "Search product"
+msgstr "ស្វែងរកផលិតផល"
+
+#: ../functions/post-types.php:137
+msgid "No product found"
+msgstr "ពុំមានផលិតផលត្រូវបានគេរកឃើញ"
+
+#: ../functions/post-types.php:138
+msgid "No product found in Trash"
+msgstr "ផលិតផលពុំត្រូវបានគេរកឃើញនៅក្នុងធុងសំរាម"
+
+#: ../functions/post-types.php:178
+#: ../functions/post-types.php:179
+msgid "Product Categories"
+msgstr "ប្រភេទផលិតផល"
+
+#: ../functions/theme-functions.php:42
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: ../functions/theme-functions.php:42
+msgid "(Edit)"
+msgstr "(កែប្រែ)"
+
+#: ../functions/theme-functions.php:48
+msgid "Your comment is awaiting moderation."
+msgstr "មតិយោបល់អ្នកកំពុងរងចាំការឆ្លើយតប"
+
+#: ../functions/theme-functions.php:122
+msgid "Main Navigation"
+msgstr "ការបង្ហាញទិសសំខាន់"
+
+#: ../functions/theme-functions.php:123
+msgid "Footer Navigation"
+msgstr "ការបង្ហាញទិសផ្នែកខាងក្រោម"
+
+#: ../functions/theme-functions.php:221
+msgid "Posted on "
+msgstr "ចេញផ្សាយនូវ"
+
+#: ../functions/theme-functions.php:231
+msgid "View All News"
+msgstr "ទស្សនាពត៍មានទាំងអស់"
+
+#: ../functions/theme-functions.php:300
+msgid "Read more "
+msgstr "អានបន្ថែម"
+
+#: ../functions/theme-functions.php:310
+#: ../functions/theme-functions.php:320
+msgid "Unable to parse URL"
+msgstr "មិនអាចបែងចែក ឬកំណត់ URL"
+
+#: ../functions/theme-functions.php:454
+msgid "Page"
+msgstr " ទំព័រ"
+
+#: ../functions/theme-functions.php:684
+msgid "View all posts by "
+msgstr "ទស្សនារាល់ការផ្សាយទាំងអស់ដោយ"
+
+#: ../functions/theme-functions.php:713
+msgid "Thumbnail"
+msgstr "រូបដែលគេបានបង្រួមនៅក្នុងកុំព្យូរទ័រ"
+
+#: ../functions/theme-functions.php:738
+msgid "None"
+msgstr " គ្មាន"
+
+#: ../functions/theme-functions.php:900
+msgid "&laquo; First"
+msgstr "&laquo;  ដំបូង  "
+
+#: ../functions/theme-functions.php:901
+msgid "Last &raquo;"
+msgstr "ចុងក្រោយ &raquo;"
+
+#: ../functions/theme-functions.php:902
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: ../functions/theme-functions.php:903
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: ../functions/theme-functions.php:904
+#: ../functions/theme-functions.php:905
+msgid "..."
+msgstr "..."
+
+#: ../functions/theme-widgets.php:296
+msgid "Latest Work"
+msgstr "ការងារចុងក្រោយបង្អស់"
+
+#: ../functions/theme-widgets.php:439
+msgid "Read more &raquo;"
+msgstr "អានបន្ថែម &raquo;"
+
+#: ../functions/theme-widgets.php:461
+msgid "Title"
+msgstr "ចំណងជើង"
+
+#: ../functions/theme-widgets.php:587
+msgid "Twitter Update!"
+msgstr "កែប្រែ twitter អោយទាន់សម័យ!"
+
+#: ../functions/theme-widgets.php:632
+msgid "Flickr Gallery"
+msgstr "កន្លែងផ្ទុក Flickr"
+
+#: ../functions/theme-widgets.php:675
+msgid "Description"
+msgstr "ពិពណ៌នា"
+
+#: ../functions/theme-widgets.php:698
+msgid "DOWNLOAD NOW!"
+msgstr "ទាញយកឥឡូវ!"
+
+#: ../functions/theme-widgets.php:720
+msgid "Box Content"
+msgstr "ប្រអប់មាតិការ"
+
+#: ../functions/theme-widgets.php:756
+#: ../functions/theme-widgets.php:791
+msgid "Hide icons?"
+msgstr "លាក់រូបដំណាង រឺ?"
+
+#: ../slideshow/slideshow-static.php:26
+msgid "VIEW MORE DETAIL"
+msgstr "ទស្សនាសេចក្តីលំអិតបន្ថែម"
+
